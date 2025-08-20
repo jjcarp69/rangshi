@@ -8,3 +8,4 @@ This page is primarily to store and document Rangshi related content. That being
 ## Korra
 
 ## General
+[Learning to Suck Cock](LearningtoSuckCock.html)
