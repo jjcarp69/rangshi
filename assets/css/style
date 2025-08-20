@@ -2,8 +2,8 @@
 
 body {
   font-family: "Literata", sans-serif;
-  background-color: #41B3A3; /* Dark background color */
-  color: #00000a; /* White text color */
+  background-color: #282828; /* Dark background color */
+  color: #ffffff; /* White text color */
   margin: 0;
 }
 
@@ -13,17 +13,17 @@ h1, h2, h3 {
 }
 
 h1 {
-  color: #0000e4; /* Blue for h1 */
+  color: #ffffff; /* Blue for h1 */
   font-family: 'monospace';
 }
 
 h2, h3 {
-  color: #0000e4; /* Lighter blue for h2 and h3 */
+  color: #ffffff; /* Lighter blue for h2 and h3 */
 }
 
 p {
   margin: 1% 10%;
-  color: #00000a;
+  color: #ffffff;
   font-family: 'monospace';
   font-size: 1.5em;
   border: 2px dashed #0000e4; /* Border color matches h2 and h3 */
