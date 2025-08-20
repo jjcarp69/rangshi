@@ -1,0 +1,1 @@
+<iframe width="650" height="450" src="https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=default&metricTemp=default&metricWind=default&zoom=6&overlay=temp&product=ecmwf&level=surface&lat=42.524&lon=-73.792&detailLat=42.735342563905135&detailLon=-73.68350297212602&marker=true&pressure=true&message=true" frameborder="0"></iframe>
