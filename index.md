@@ -13,4 +13,4 @@ This page is primarily to store and document Rangshi related content. That being
 ## General
 [Learning to Suck Cock](LearningtoSuckCock.html)
 
-[Clean Up Gif](jjlib/10252452.gif)
+[Alli Rae Encourages You to Be Cock Drunk](alli.md)
