@@ -6,6 +6,8 @@ This page is primarily to store and document Rangshi related content. That being
 
 [To The Winner Go The Spoils Fan Fic](TotheWinnerGotheSpoils.html)
 
+[What Happened After Horse Stance Training?](RaitoninguF.md)
+
 ## Korra
 
 ## General
