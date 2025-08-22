@@ -9,6 +9,9 @@ This page is primarily to store and document Rangshi related content. The follow
 [What Happened After Horse Stance Training?](RaitoninguF.md)
 
 [Senekart: Rangi Eats Out Kyoshi](senekart.md)
+
+[NSFW Collection from WoopsieDoodles](woopsdoo.md)
+
 ## Korra
 
 ## General
