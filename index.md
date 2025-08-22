@@ -12,6 +12,8 @@ This page is primarily to store and document Rangshi related content. The follow
 
 [NSFW Collection from WoopsieDoodles](woopsdoo.md)
 
+[Kyoshi Rage Baits Rangi- WoopsieDoodles (SFW)](woopsie2.md)
+
 ## Korra
 
 ## General
