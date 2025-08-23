@@ -16,6 +16,8 @@ This page is primarily to store and document Rangshi related content. The follow
 
 [Your Sanctuary-Marceline2174](yoursan.md)
 
+[Kyoshi + Rangi-Olivia on Patreon](oliviapatreon.jpg)
+
 ## Korra
 
 ## General
