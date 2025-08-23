@@ -9,3 +9,6 @@
 <center><img src="whole8.webp" width="100%"></center>
 <center><img src="whole9.webp" width="100%"></center>
 <center><img src="whole10.webp" width="100%"></center>
+<center><img src="kyoshi_and_rangi_in_flying_opera_company_makeup_by_kkachi95_deb4v9u.png" width="100%"></center>
+<center><img src="rangi_and_kyoshi_at_the_south_pole_by_kkachi95_depd6t8.png" width="100%"></center>
+<center><img src="rangshi___free_therapy__by_cosmicdraghon_df2un60.jpg" width="100%"></center>
