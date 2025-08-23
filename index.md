@@ -30,6 +30,8 @@ This page is primarily to store and document Rangshi related content. The follow
 
 [Rangi Tops and Talks Dirty-Kalruna](863615746ea8eb3ac5cb6294a21c4c9a.png)
 
+[Kyoshi Gets the Upper Hand-LesbeanLatte](lbl.md)
+
 ## Korra
 
 ## General
