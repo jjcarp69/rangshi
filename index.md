@@ -4,7 +4,11 @@ This page is primarily to store and document Rangshi related content. The follow
 
 ## Rangshi
 
+### Fanfics
+
 [To The Winner Go The Spoils Fan Fic](TotheWinnerGotheSpoils.html)
+
+### NSFW Art
 
 [What Happened After Horse Stance Training?-RaitoninguF](RaitoninguF.md)
 
@@ -29,6 +33,8 @@ This page is primarily to store and document Rangshi related content. The follow
 [Rangi Tops and Talks Dirty-Kalruna](863615746ea8eb3ac5cb6294a21c4c9a.png)
 
 [Kyoshi Gets the Upper Hand-LesbeanLatte](lbl.md)
+
+### SFW Art
 
 [Kyoshi Rage Baits Rangi-WoopsieDoodles (SFW)](woopsie2.md)
 
