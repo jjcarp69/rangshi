@@ -32,6 +32,8 @@ This page is primarily to store and document Rangshi related content. The follow
 
 [Kyoshi Gets the Upper Hand-LesbeanLatte](lbl.md)
 
+[Lake Scene-Kkachi_95](lakescene.md)
+
 ## Korra
 
 ## General
