@@ -12,8 +12,6 @@ This page is primarily to store and document Rangshi related content. The follow
 
 [NSFW Collection from WoopsieDoodles](woopsdoo.md)
 
-[Kyoshi Rage Baits Rangi-WoopsieDoodles (SFW)](woopsie2.md)
-
 [Your Sanctuary-Marceline2174](yoursan.md)
 
 [Kyoshi + Rangi-Olivia on Patreon](oliviapatreon.jpg)
@@ -32,9 +30,13 @@ This page is primarily to store and document Rangshi related content. The follow
 
 [Kyoshi Gets the Upper Hand-LesbeanLatte](lbl.md)
 
+[Kyoshi Rage Baits Rangi-WoopsieDoodles (SFW)](woopsie2.md)
+
 [Lake Scene-Kkachi_95 (SFW)](lakescene.md)
 
 [South Pole-Kkachi_95 (SFW)](pole.md)
+
+[Collection of suggestive but SFW images from several artists](sug.md)
 
 ## Korra
 
