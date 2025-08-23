@@ -6,7 +6,11 @@ This page is primarily to store and document Rangshi related content. The follow
 
 ### Fanfics
 
-[To The Winner Go The Spoils Fan Fic](TotheWinnerGotheSpoils.html)
+[To The Winner Go The Spoils](TotheWinnerGotheSpoils.html)
+
+[Burning Red](burning_red.html)
+
+[Kyoshi Takes the Lead](Kyoshi_Takes_The_Lead.html)
 
 ### NSFW Art
 
