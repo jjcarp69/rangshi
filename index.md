@@ -34,6 +34,8 @@ This page is primarily to store and document Rangshi related content. The follow
 
 [Lake Scene-Kkachi_95 (SFW)](lakescene.md)
 
+[South Pole-Kkachi_95 (SFW)](pole.md)
+
 ## Korra
 
 ## General
