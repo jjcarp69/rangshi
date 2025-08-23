@@ -6,9 +6,9 @@ This page is primarily to store and document Rangshi related content. The follow
 
 [To The Winner Go The Spoils Fan Fic](TotheWinnerGotheSpoils.html)
 
-[What Happened After Horse Stance Training?](RaitoninguF.md)
+[What Happened After Horse Stance Training?-RaitoninguF](RaitoninguF.md)
 
-[Senekart: Rangi Eats Out Kyoshi](senekart.md)
+[Rangi Eats Out Kyoshi-Senekart](senekart.md)
 
 [NSFW Collection from WoopsieDoodles](woopsdoo.md)
 
@@ -17,6 +17,10 @@ This page is primarily to store and document Rangshi related content. The follow
 [Your Sanctuary-Marceline2174](yoursan.md)
 
 [Kyoshi + Rangi-Olivia on Patreon](oliviapatreon.jpg)
+
+[Soft Dominion-Unknown Author](0abaecf0e2716db5d317833a86dc2562.jpeg)
+
+[Sensual Pegging-Unknown Author](920c109e08efc13b44e501913d6398f9.jpg)
 
 ## Korra
 
