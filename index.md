@@ -38,6 +38,8 @@ This page is primarily to store and document Rangshi related content. The follow
 
 [Collection of suggestive but SFW images from several artists](sug.md)
 
+[Collection of wholesome SFW images from several artists](wholesome.md)
+
 ## Korra
 
 ## General
