@@ -22,6 +22,14 @@ This page is primarily to store and document Rangshi related content. The follow
 
 [Sensual Pegging-Unknown Author](920c109e08efc13b44e501913d6398f9.jpg)
 
+[Shy Kyoshi-Unknown Author](33f75789dc8b6ec30ca5103f270fd318.png)
+
+[Beautiful Line Art-Beya Arca](5424172 - Avatar_the_Last_Airbender beyaarca Kyoshi Rangi.jpg)
+
+[Rangi's POV-Uknown Author](9f23866ea2792d1d22c061b21049d56d.jpeg)
+
+[Rangi Tops and Talks Dirty-Kalruna](863615746ea8eb3ac5cb6294a21c4c9a.png)
+
 ## Korra
 
 ## General
