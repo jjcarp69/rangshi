@@ -59,4 +59,4 @@ This page is primarily to store and document Rangshi related content. The follow
 ## General
 [Learning to Suck Cock](LearningtoSuckCock.html)
 
-[Alli Rae Encourages You to Be Cock Drunk](alli.md)
+[Alli Rae Encourages You to Be Cock Drunk](allirae.md)
