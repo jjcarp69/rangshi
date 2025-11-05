@@ -68,6 +68,8 @@ This page is primarily to store and document Rangshi related content. The follow
 
 [Jinora BG Collection](jins.md)
 
+[Jinora Doms Kai](jincu.md)
+
 ## General
 [Learning to Suck Cock](LearningtoSuckCock.html)
 
