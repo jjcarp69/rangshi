@@ -27,4 +27,4 @@
 <center><img src="KorAsa_27.png" width="100%"></center>
 <center><img src="KorAsa_28.png" width="100%"></center>
 <center><img src="KorAsa_29.png" width="100%"></center>
-<center><img src="KorAsa_27.gif" width="100%"></center>
+<center><img src="KorAsa_30.gif" width="100%"></center>
