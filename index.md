@@ -54,7 +54,9 @@ This page is primarily to store and document Rangshi related content. The follow
 
 [Korra Sandwich-Kowachi](korrasandwich.md)
 
-[Collectiom of Korrasami NSFW art from several artists](korrasami.md)
+[Heavenly Bodies-alxr34](hb.md)
+
+[Collection of Korrasami NSFW art from several artists](korrasami.md)
 
 ## General
 [Learning to Suck Cock](LearningtoSuckCock.html)
