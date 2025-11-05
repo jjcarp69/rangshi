@@ -62,7 +62,9 @@ This page is primarily to store and document Rangshi related content. The follow
 
 ## Jinora
 
-[Jinora Solo](jin.md) 
+[Jinora Solo Collection](jin.md) 
+
+[Jinora Les Collection](jinles.md)
 
 ## General
 [Learning to Suck Cock](LearningtoSuckCock.html)
