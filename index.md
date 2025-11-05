@@ -60,6 +60,10 @@ This page is primarily to store and document Rangshi related content. The follow
 
 [Girls Night Out](GNO.md)
 
+## Jinora
+
+[Jinora Solo](jin.md) 
+
 ## General
 [Learning to Suck Cock](LearningtoSuckCock.html)
 
