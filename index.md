@@ -75,4 +75,4 @@ This page is primarily to store and document Rangshi related content. The follow
 
 [Alli Rae Encourages You to Be Cock Drunk](allirae.md)
 
-[Cuck Moments You Wished Happened To You](hw.md)
+[Happy Birthday from Sophia Burns](hw.md)
