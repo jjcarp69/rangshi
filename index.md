@@ -76,3 +76,6 @@ This page is primarily to store and document Rangshi related content. The follow
 [Alli Rae Encourages You to Be Cock Drunk](allirae.md)
 
 [Happy Birthday from Sophia Burns](hw.md)
+
+[Sage Hunter, A Masterpiece](sh.md)
+
