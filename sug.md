@@ -5,3 +5,5 @@
 <center><img src="sug5.webp" width="100%"></center>
 <center><img src="d0f8pnxt9z661.webp" width="100%"></center>
 <center><img src="513823539.jpg" width="100%"></center>
+<center><img src="sug_6.jpg" width="100%"></center>
+<center><img src="sug_7.jpg" width="100%"></center>
