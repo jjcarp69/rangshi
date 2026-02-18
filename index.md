@@ -58,5 +58,3 @@ This page is primarily to store and document Rangshi related content. The follow
 
 [Collection of Korrasami NSFW art from several artists](korrasami.md)
 
-[Girls Night Out](GNO.md)
-
