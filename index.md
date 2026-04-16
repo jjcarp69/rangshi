@@ -77,3 +77,6 @@ This page is primarily to store and document Rangshi related content. The follow
 
 [Sage Hunter, A Masterpiece](sh.md)
 
+## Dr series
+[Defense Celebration](kr_1.md)
+
