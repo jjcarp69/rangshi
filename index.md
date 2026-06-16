@@ -38,7 +38,7 @@ This page is primarily to store and document Rangshi related content. The follow
 
 [Kyoshi Gets the Upper Hand-LesbeanLatte](lbl.md)
 
-[Horse Stance Training](krhst.webp)
+[Horse Stance Training-Raccuun](krhst.webp)
 
 ### SFW Art
 
