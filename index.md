@@ -38,6 +38,8 @@ This page is primarily to store and document Rangshi related content. The follow
 
 [Kyoshi Gets the Upper Hand-LesbeanLatte](lbl.md)
 
+[Horse Stance Training](krhst.webp)
+
 ### SFW Art
 
 [Kyoshi Rage Baits Rangi-WoopsieDoodles (SFW)](woopsie2.md)
