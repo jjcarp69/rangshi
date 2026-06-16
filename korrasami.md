@@ -28,3 +28,5 @@
 <center><img src="KorAsa_28.png" width="100%"></center>
 <center><img src="KorAsa_29.png" width="100%"></center>
 <center><img src="KorAsa_30.gif" width="100%"></center>
+<center><img src="KorAsa_31.jpg" width="100%"></center>
+<center><img src="KorAsa_32.jpg" width="100%"></center>
