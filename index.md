@@ -40,6 +40,8 @@ This page is primarily to store and document Rangshi related content. The follow
 
 [Horse Stance Training-Raccuun](krhst.webp)
 
+[Face Sitting-Eyashhi](eya.md)
+
 ### SFW Art
 
 [Kyoshi Rage Baits Rangi-WoopsieDoodles (SFW)](woopsie2.md)
