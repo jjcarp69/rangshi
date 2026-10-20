@@ -78,6 +78,10 @@ This page is primarily to store and document Rangshi related content. The follow
 
 [Jinora Doms Kai](jincu.md)
 
+## Opal
+
+[Opal Collection](opal.md)
+
 ## General
 [Learning to Suck Cock](LearningtoSuckCock.html)
 
