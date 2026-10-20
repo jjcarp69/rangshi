@@ -42,6 +42,8 @@ This page is primarily to store and document Rangshi related content. The follow
 
 [Face Sitting-Eyashhi](eya.md)
 
+[Miscellaneous from Marceline2174](mar_nsf.md)
+
 ### SFW Art
 
 [Kyoshi Rage Baits Rangi-WoopsieDoodles (SFW)](woopsie2.md)
