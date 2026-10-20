@@ -34,3 +34,4 @@
 <center><img src="KorAsa_34.jpg" width="100%"></center>
 <center><img src="KorAsa_35.jpg" width="100%"></center>
 <center><img src="KorAsa_36.jpeg" width="100%"></center>
+<center><img src="IMG_7927.png" width="100%"></center>
